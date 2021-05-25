@@ -9,7 +9,7 @@ javascrept
 
 | Assignments    |      Links   |
 | -------------  | -------------|
-| class1     |    [link](class-00.md)      |
+| class0     |    [link](class-00.md)      |
 | class1     |    [link](class-01.md)      |
 | class2     |    [link](class-02.md)      | 
 |  class3    |    [link](class-03.md)      |
