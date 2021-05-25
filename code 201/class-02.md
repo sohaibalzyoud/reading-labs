@@ -1,5 +1,5 @@
 
-## vHTML Text, CSS Introduction, and Basic JavaScript Instructions
+## HTML Text, CSS Introduction, and Basic JavaScript Instructions
 
 ## troductory HTML and JavaScript
 HTML
